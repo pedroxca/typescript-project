@@ -1,8 +1,8 @@
 {
-  "name": "typescript-project",
+  "name": "typescript-app",
   "version": "0.0.1",
   "description": "This is a boilerplate for backend typescript projects using express.js.",
-  "main": "index.js",
+  "main": "src/server.ts",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/pedroxca/typescript-project",
